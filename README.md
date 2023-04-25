@@ -7,4 +7,5 @@ Sort algorithms could be more efficient for large arrays. sorting in c Although 
 
 Write a C program to sort the roll numbers of present students. sorting in c Mark the attendance of the current students and roll numbers randomly in an array. A sorting algorithm is an algorithm that puts elements of a list in a specific order.
 
-They are programming write a program that can be used to test and evaluate the performance of insertion sort and, later, other methods. The following outline should be used. Create several files of integers to be used.![image](https://user-images.githubusercontent.com/125429673/234375893-48bf26f4-1456-4729-8558-68243571ada7.png)
+They are programming write a program that can be used to test and evaluate the performance of insertion sort and, later, other methods. The following outline should be used. Create several files of integers to be used.
+![image](https://user-images.githubusercontent.com/125429673/234376139-d053b490-51ae-40ff-8ac7-59c67ddaf705.png)
